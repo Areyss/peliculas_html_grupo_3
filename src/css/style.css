@@ -1,0 +1,36 @@
+.body{
+    background: url(../img/palomitas-cine-pelicula.jpg);
+    background-size: cover;
+    font-family: 'Arial','Helvetica','sans-sarif';
+    overflow: hidden;
+}
+.main-principal{
+    
+    height: 100vh;
+    background: linear-gradient(0deg,hsla(348, 100%, 20%, 0.9), hsla(342, 100%, 29%, 0.4));
+
+    
+}
+.nav-2{
+    padding: 10%;
+}
+.nav-2 h1{
+    font-size: 60px;
+    color: white;
+}
+.nav-2 input[type="button"]{
+        width: 160px;
+        background: black;
+        color: #d30443;
+        border:none;
+        padding: 7px;
+        border-radius: 50px;
+        margin-top: 10px;
+        font-size: 18px;
+    }
+.nav-2 input[type="button"]:hover{
+    background: #94002c;
+    color: #EAEAEA;
+    cursor: pointer;
+    transition:  .2s;
+}

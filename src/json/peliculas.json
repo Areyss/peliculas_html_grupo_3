@@ -1,0 +1,40 @@
+[
+    {
+        "titulo": "Avenger: Endgames",
+        "img":"./img/avenger.png",
+        "duracion":"3h 2m",
+        "sinopsis":"Tras los sucesos de «Vengadores: Infinity War», los superhéroes que sobrevivieron a Thanos se reunen para poner en práctica un plan definitivo que podría acabar con el villano definitivamente. No saben si funcionará, pero es su única oportunidad de intentarlo. Cuarta entrega de la saga «Vengadores»",
+        "genero":"Acción Aventura Fantasía"
+    },
+    {
+        "titulo": "Godzilla vs Kong",
+        "img":"./img/godzilla-vs-kong.jpeg",
+        "duracion":"1h 53m",
+        "sinopsis":"Godzilla y Kong, dos de las fuerzas más poderosas de un planeta habitado por todo tipo de aterradoras criaturas, se enfrentan en un espectacular combate que sacude los cimientos de la humanidad. Monarch (Kyle Chandler) se embarca en una misión de alto riesgo y pone rumbo hacia territorios inexplorados para descubrir los orígenes de estos dos titanes, en un último esfuerzo por tratar de salvar a dos bestias que parecen tener las horas contadas sobre la faz de la Tierra.",
+        "genero":"Acción Ciencia Ficción Thriller"
+        
+    },
+    {
+        "titulo": "Joker",
+        "img":"./img/joker.jpg",
+        "duracion":"2h 1m",
+        "sinopsis":"Situada en los años 80′. Un cómico fallido es arrastrado a la locura, convirtiendo su vida en una vorágine de caos y delincuencia que poco a poco lo llevará a ser el psicópata criminal más famoso de Gotham.",
+        "genero":"Crimen Drama Thriller"
+        
+    },
+    {
+        "titulo": "Parasite",
+        "img":"./img/Parasite.jpg",
+        "duracion":"2h 12m",
+        "sinopsis":"Santo Gi Taek (Song Kang Ho) como su familia están sin trabajo. Cuando su hijo mayor, Gi Woo (Choi Woo Shik), empieza a recibir clases particulares en casa de Park (Lee Sun Gyun), las dos familias, que tienen mucho en común pese a pertenecer a dos mundos totalmente distintos, comienzan una interrelación de resultados impresivibles.",
+        "genero":"Comedia Drama Thriller"
+        
+    },
+    {
+        "titulo": "Toy Story 4",
+        "img":"./img/Toy_Story_4.jpg",
+        "duracion":"1h 30m",
+        "sinopsis":"Las aventuras de este dúo tan carismático les obligarán de nuevo salir al extraño y gigantesco mundo exterior, en una nueva misión imposible. Con la ayuda de sus amigos, pondrán todo su empeño en cumplir su objetivo y volver a casa sanos y salvos. Protegiéndose y apoyándose unos en otros, juntos conseguirán solucionar el gran problema que tienen entre manos y que pone en riesgo su futuro unidos. Hazañas casi imposibles, mucho humor, compañerismo, confianza, y sobretodo, la amistad, serán algunos de los temas que trate esta cuarta parte de la historia de los juguetes animados más conocidos del cine."
+        
+    }
+]
